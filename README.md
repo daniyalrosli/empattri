@@ -16,7 +16,7 @@ The Employee Attrition Analysis project analyzes factors influencing employee at
 
 📂 Dataset
 
-- Source: Provided CSV file
+- Source: https://shorturl.at/1rJIO
 
 - Description: The dataset includes employee demographics, job roles, satisfaction levels, performance ratings, and attrition status.
 
