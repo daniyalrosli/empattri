@@ -1,4 +1,4 @@
-📊 Employee Attrition Analysis
+📊 Employee Attrition Analysis (50%)
 
 🚀 Project Overview
 
